@@ -1,4 +1,4 @@
-# smallpot
+# smallpot-lite
 <img src="https://raw.githubusercontent.com/scarsty/bigpot/master/logo.png" width = "20%" />
 此为scarsty开发的SmallPot的精简版  
 精简版仅保留我认为集成到游戏中有用的部分  
