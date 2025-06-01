@@ -4,7 +4,7 @@
 精简版仅保留我认为集成到游戏中有用的部分  
 删除UI、字幕支持、配置文件支持等内容，删除依赖库iconv、libass，依赖库仅包含ffmpeg和sdl3。  
 
-（小水壶项目地址https://github.com/scarsty/smallpot）  
+小水壶项目地址https://github.com/scarsty/smallpot  
 具体编译可参考原SmallPot的简介  
 ## 原SmallPot简介
 
